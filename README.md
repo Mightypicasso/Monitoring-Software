@@ -2,6 +2,6 @@
 
 ### This is for educational purpose only
 
-This is my FYP project created at the thought of allowing parents to monitor their kids' online activities. 
+This is a project created at the thought of allowing parents to monitor their kids' online activities. 
 
 
